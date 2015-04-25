@@ -18,7 +18,6 @@ gtkmm-2.24.4-i486-1_SBo.tgz
 gtkmm3-3.8.1-i486-1_SBo.tgz
 i3-4.8-i486-1_SBo.tgz
 imlib2-1.4.7-i486-1_SBo.tgz
-install.sh
 lame-3.99.5-i486-1_SBo.tgz
 libconfig-1.4.9-i486-1_SBo.tgz
 libev-4.15-i486-2_SBo.tgz
@@ -29,7 +28,6 @@ libxdg-basedir-1.2.0-i486-1_SBo.tgz
 libxkbcommon-0.2.0-i486-1_SBo.tgz
 lxappearance-0.6.1-i486-1_SBo.tgz
 maim-2.3.31-i486-1_SBo.tgz
-manifest
 mm-common-0.9.7-noarch-1_SBo.tgz
 mpc-0.25-i486-1_SBo.tgz
 mpd-0.19.9-i486-1_SBo.tgz
